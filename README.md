@@ -1,9 +1,5 @@
 # Memorable Password Generator
 
-<p align="center">
-  <img src="./metadata/memorable-generate-password-1.png" alt="Memorable Password Generator Screenshot" width="800">
-</p>
-
 A powerful Raycast extension that generates strong, memorable passwords using meaningful word combinations. Balance security with memorability through customizable word lists, intelligent character substitution, and flexible configuration options.
 
 ## ✨ Features
